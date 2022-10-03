@@ -8,12 +8,7 @@ class Solution:
             
             # escaper=0
             merged.append(val[0])
-            for i in range(1,len(val)-1):
-
-                # if escaper==1:
-                #     escaper -=1
-                #     continue
-                # else:    
+            for i in range(1,len(val)-1): 
                 if val[i][0]<=merged[len(merged)-1][1] and val[i][0]>=merged[len(merged)-1][0]: 
                     merged[-1]=[min(merged[-1][0],val[i][0]),max(merged[-1][-1],val[i][-1])]
                     # escaper +=1
