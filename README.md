@@ -4,4 +4,4 @@
 - two pointer - 6
 - sliding window - 3
 - prefixsum - 3
-- stack - 1
+- stack - 2
