@@ -3,4 +3,4 @@
 - sorting - 5
 - two pointer - 2
 - sliding window - 2
-- prefixsum - 1
+- prefixsum - 2
