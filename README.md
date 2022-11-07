@@ -5,3 +5,4 @@
 - sliding window - 5
 - prefixsum - 5
 - stack - 5
+- other - 1
