@@ -1,6 +1,6 @@
 # competetive_programming
 
-- sorting - 7
+- sorting - 8
 - two pointer - 6
 - sliding window - 5
 - prefixsum - 5
